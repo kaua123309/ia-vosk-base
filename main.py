@@ -1,4 +1,5 @@
-m vosk import KaldiRecognizer, Model
+
+from vosk import KaldiRecognizer, Model
 import pyaudio
 
 p=pyaudio.PyAudio()
