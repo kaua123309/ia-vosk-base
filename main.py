@@ -31,3 +31,5 @@ def microphone():
 				break
 
 
+	  except:
+	    print("error")
